@@ -1,9 +1,9 @@
 # CSA09 — Assignment 2 (CO2)
 
-| Student name | B Hitesh Roy |
-| Register number | 192372036 |
+| Student name | Sharlie Gifta |
+| Register number | 192324191 |
 | Course code | CSA09 — Programming in Java |
-| Repository | https://github.com/rootsolve12/CSA09-192372036-Assignment2 |
+| Repository | https://github.com/rootsolve12/CSA09-192324191-Assignment2 |
 | Tested JVM | OpenJDK 21.0.13; programs target Java 17+ |
 
 ## Scope
